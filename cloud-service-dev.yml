@@ -1,0 +1,13 @@
+Spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+    
+send:
+  email: 18801225997@163.com
+prevent:
+  violence:
+    x: 5
+    y: 10
